@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Apurva | Data Analyst 📊
+I am a Data Analyst dedicated to uncovering trends and driving data-informed decisions. I specialize in data cleaning, exploratory analysis, and building interactive dashboards.
 
-<!--
-**Apurva9903/Apurva9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 My Data Toolkit
+Data Wrangling: Python (Pandas, NumPy), SQL
 
-Here are some ideas to get you started:
+Data Visualization: Power BI, Tableau, Seaborn, Plotly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Database Management: PostgreSQL, MySQL, SQL Server
+
+Statistical Analysis: A/B Testing, Regression Analysis, Hypothesis Testing
+
+🎯 Professional Focus
+Data Cleaning: Ensuring high-quality data for accurate reporting.
+
+Actionable Insights: Translating complex metrics into business-friendly narratives.
+
+Automation: Using Python to streamline repetitive data collection tasks.
+
