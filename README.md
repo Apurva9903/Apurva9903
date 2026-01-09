@@ -1,5 +1,6 @@
 ## Hi there 👋 
 I'm Apurva | Data Analyst 📊
+
 I am a Data Analyst dedicated to uncovering trends and driving data-informed decisions. I specialize in data cleaning, exploratory analysis, and building interactive dashboards.
 
 ### 🛠 My Data Toolkit  
